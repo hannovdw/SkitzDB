@@ -1,1 +1,1 @@
-# SkitzDB
+# Skitz-DB
